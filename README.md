@@ -1,10 +1,12 @@
 # Read-list
 所读书籍列表
 ## 技术
+> 1. 《图解HTTP》 By 上野宣 2018.4
+> 2. 《JavaScript DOM编程艺术》 By Jeremy Keith 2018.4
+> 3. 《JavaScript语言精粹》 By Douglas Crockford 2018.5
 
-## 运营
-
-## 产品
+## 互联网
+> 1. 《你凭什么做好互联网：从技术思维到商业逻辑》　By:曹政　　2018.8
 
 ## 理财
 > 1. 《富爸爸穷爸爸》 by 罗伯特·清崎 2017.9
