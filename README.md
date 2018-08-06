@@ -1,5 +1,4 @@
-# Read-list
-所读书籍列表
+# Reading-list
 ## 技术
 > 1. 《图解HTTP》 By 上野宣 2018.4
 > 2. 《JavaScript DOM编程艺术》 By Jeremy Keith 2018.4
